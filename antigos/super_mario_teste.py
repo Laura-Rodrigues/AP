@@ -16,3 +16,7 @@ for step in range(5000):
        env.reset()
 
 env.close()
+
+
+def return_env(self):
+    return env
